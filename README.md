@@ -43,7 +43,7 @@ Soy Ingeniero en Informática
 
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>Go after your dreams, you are the only one who can achieve them.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/francisco-javier-gonzález-uribe-90b04022/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
