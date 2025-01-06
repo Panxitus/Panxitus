@@ -4,7 +4,7 @@
 
 Soy Ingeniero en Informática 
 
-⚡ Ingeniero en Informática con 4 años de egreso. Me destaco por ser una persona responsable, organizada, creativa y autodidacta. Asumo con un alto grado de compromiso las tareas y metas asignadas. Resuelvo problemas emergentes de manera eficiente y aplicando un análisis crítico de la información. Soy innovador y poseo habilidades blandas desarrolladas, lo que me permite mantener buenas relaciones interpersonales y trabajar eficazmente en equipos de desarrollo o multidisciplinarios. Manejo metodologías Agile como Scrum y Kanban.⚡ 
+⚡ Con 4 años de egreso. Me destaco por ser una persona responsable, organizada, creativa y autodidacta. Asumo con un alto grado de compromiso las tareas y metas asignadas. Resuelvo problemas emergentes de manera eficiente y aplicando un análisis crítico de la información. Soy innovador y poseo habilidades blandas desarrolladas, lo que me permite mantener buenas relaciones interpersonales y trabajar eficazmente en equipos de desarrollo o multidisciplinarios. Manejo metodologías Agile como Scrum y Kanban.⚡ 
 
 
 ## Mis Skills 
